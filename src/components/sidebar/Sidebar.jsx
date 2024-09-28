@@ -88,7 +88,7 @@ const Sidebar = () => {
                 <span className="menu-link-icon">
                   <MdOutlineCurrencyExchange size={18} />
                 </span>
-                <span className="menu-link-text">Transactions</span>
+                {/* <span className="menu-link-text">Transactions</span> */}
               </Link>
             </li>
             <li className="menu-item">
