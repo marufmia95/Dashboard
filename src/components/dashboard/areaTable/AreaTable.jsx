@@ -57,15 +57,15 @@ const TABLE_DATA = [
     status: "delivered",
     amount: 60,
   },
-  // {
-  //   id: 105,
-  //   name: "Airpods",
-  //   order_id: 11232,
-  //   date: "Jun 29,2022",
-  //   customer: "Afaq Karim",
-  //   status: "delivered",
-  //   amount: 80,
-  // },
+  {
+    id: 105,
+    name: "Airpods",
+    order_id: 11232,
+    date: "Jun 29,2022",
+    customer: "Afaq Karim",
+    status: "delivered",
+    amount: 80,
+  },
 ];
 
 const AreaTable = () => {
